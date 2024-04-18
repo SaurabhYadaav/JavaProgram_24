@@ -7,10 +7,13 @@ public class Lab123
     public static void main(String[] args) {
         // Program to Perform Arithmetic Operations
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Enter num1");
         int input1 = sc.nextInt();
+
         System.out.println("Enter num2");
         int input2 = sc.nextInt();
+
         System.out.println("Enter Operation +,-,%,/,*");
         char operator = sc.next().charAt(0);
 
