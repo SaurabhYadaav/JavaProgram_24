@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b2b3ac-7782-4367-91ea-6322897d6dfe" name="Changes" comment="11 APR 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/IQ001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/IQ002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/IQ003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab049.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81b2b3ac-7782-4367-91ea-6322897d6dfe" name="Changes" comment="11 APR 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712912397660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11 APR 2024">
+      <option name="closed" value="true" />
+      <created>1713411126350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713411126350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
