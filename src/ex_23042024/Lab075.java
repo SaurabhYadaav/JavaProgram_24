@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Lab075
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // Max number in two
         System.out.println("Enter num 1");
         Scanner sc = new Scanner(System.in);

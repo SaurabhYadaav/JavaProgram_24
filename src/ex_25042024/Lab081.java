@@ -1,5 +1,7 @@
 package ex_25042024;
 
+import java.util.Scanner;
+
 public class Lab081
 {
     public static void main(String[] args) {
